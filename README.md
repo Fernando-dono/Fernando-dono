@@ -21,5 +21,5 @@ Leave a comment in this repository and tell me why it’s your favorite. I’d l
 Link to My Instagram
 
 Click the logo to visit my profile:
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/fer_perez0117/)
+####[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/fer_perez0117/)
 
