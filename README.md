@@ -20,7 +20,6 @@ Leave a comment in this repository and tell me why it’s your favorite. I’d l
 ----------------------------------------------------------------------------------------------------------------
 
 
-Link to My Instagram
 
 Click the logo to visit my profile:
 
